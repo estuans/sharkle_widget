@@ -1,9 +1,15 @@
 body {
     margin: 0;
+    position: absolute;
+    transform: scale(0.5, 0.5);
+    /*Firefox*/
+    -moz-transform: scale(0.5, 0.5);
+    /*Chrome, Safari*/
+    -webkit-transform: scale(0.5, 0.5);
 }
 
 #bubble {
-  position: fixed;
+  position: absolute;
 }
 
 #sharkle {

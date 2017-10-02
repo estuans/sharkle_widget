@@ -12,10 +12,16 @@
     <string>1.0</string>
     <key>CFBundleVersion</key>
     <string>1.0</string>
+    <key>AllowInternetPlugins</key>
+    <true/>
     <key>CloseBoxInsetX</key>
     <integer>16</integer>
     <key>CloseBoxInsetY</key>
     <integer>14</integer>
+    <key>Height</key>
+    <integer></integer>
+    <key>Width</key>
+    <integer></integer>
     <key>MainHTML</key>
     <string>sharkle.html</string>
 </dict>

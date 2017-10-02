@@ -126,7 +126,7 @@ function animateHello(event){
 
 }
 
-function setup(){
+function startSharkle(){
 
   // Load up frames in to array
 
