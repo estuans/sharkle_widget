@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+#bubble {
+  position: fixed;
+}
+
+#sharkle {
+  position: absolute;
+  left: 220px;
+  top: 200px;
+}
